@@ -1,0 +1,10 @@
+*.docx
+*.xlsx
+*.csv
+*.yml
+*.url
+
+
+Learning/
+code/__pycache__
+code/.ipynb_checkpoints
