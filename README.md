@@ -1,4 +1,5 @@
-# DataAnalyticsMiniProject
+# FruadDetectionDataAnalytics
+
 for a companies data analytics competition, this was my submitted solution
 
 The powerpoint called FlowChart.pptx goes over most of what I did. 
